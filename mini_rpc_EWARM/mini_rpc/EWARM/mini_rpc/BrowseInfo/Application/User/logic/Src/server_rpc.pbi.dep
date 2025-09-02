@@ -1,5 +1,4 @@
 D:\Coff3e\Work\mini_rpc\mini_rpc_EWARM\mini_rpc\EWARM\mini_rpc\BrowseInfo\Application\User\logic\Src\server_rpc.pbi: \
-  D:\Coff3e\Work\mini_rpc\mini_rpc_logic\libraries\mini_rpc_library\src\server_rpc.cpp \
   D:\Coff3e\Work\mini_rpc\mini_rpc_EWARM\mini_rpc\EWARM\..\..\..\mini_rpc_logic\libraries\mini_rpc_library\inc\server_rpc.h \
   D:\Coff3e\Work\mini_rpc\mini_rpc_EWARM\mini_rpc\EWARM\..\..\..\mini_rpc_logic\libraries\mini_rpc_library\inc\registry.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\cpp\string \
@@ -75,4 +74,5 @@ D:\Coff3e\Work\mini_rpc\mini_rpc_EWARM\mini_rpc\EWARM\mini_rpc\BrowseInfo\Applic
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\cpp\tuple \
   D:\Coff3e\Work\mini_rpc\mini_rpc_EWARM\mini_rpc\EWARM\..\..\..\mini_rpc_logic\libraries\mini_rpc_library\inc\transport.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\cpp\vector \
-  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\cpp\xmemory
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.1\arm\inc\cpp\xmemory \
+  D:\Coff3e\Work\mini_rpc\mini_rpc_logic\libraries\mini_rpc_library\src\server_rpc.cpp
