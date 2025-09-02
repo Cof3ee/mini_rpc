@@ -165,6 +165,7 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   
   user_main_function();
+  
   while (1)
   {
     /* USER CODE END WHILE */

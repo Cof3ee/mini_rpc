@@ -56,3 +56,7 @@
 2	594	7784717594689210	D:/Coff3e/Work/mini_rpc/mini_rpc_EWARM/mini_rpc/EWARM/mini_rpc/Obj/Application/User/logic/Src/UART_TX.o	7971f698883c6ca4
 604	779	7784717596517085	D:/Coff3e/Work/mini_rpc/mini_rpc_EWARM/mini_rpc/EWARM/mini_rpc/Exe/mini_rpc.out	3aa8bf40b8afff49
 812	834	7784717597237742	D:/Coff3e/Work/mini_rpc/mini_rpc_EWARM/mini_rpc/EWARM/mini_rpc/Exe/mini_rpc.hex	1f7905695886f0bc
+2	449	7784721988820117	D:/Coff3e/Work/mini_rpc/mini_rpc_EWARM/mini_rpc/EWARM/mini_rpc/Obj/Application/User/Core/main.o	d3cc563768ca6b4d
+132	1068	7784721994916174	D:/Coff3e/Work/mini_rpc/mini_rpc_EWARM/mini_rpc/EWARM/mini_rpc/Obj/Application/User/logic/Src/user_main.o	594e0abc76e7d31f
+1079	1266	7784721996921289	D:/Coff3e/Work/mini_rpc/mini_rpc_EWARM/mini_rpc/EWARM/mini_rpc/Exe/mini_rpc.out	3aa8bf40b8afff49
+1298	1321	7784721997631928	D:/Coff3e/Work/mini_rpc/mini_rpc_EWARM/mini_rpc/EWARM/mini_rpc/Exe/mini_rpc.hex	1f7905695886f0bc

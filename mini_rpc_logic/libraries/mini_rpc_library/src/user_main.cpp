@@ -20,7 +20,7 @@ static std::vector<uint8_t> rpc_sum(const std::vector<uint8_t>& args)
 
 void user_main_function(void) 
 {
-  // 1. Create and fill the registry
+    // 1. Create and fill the registry
     registry_function reg;
     reg.register_func("sum", rpc_sum);
 
