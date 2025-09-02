@@ -1,18 +1,21 @@
 #pragma once
+
 #include <string>
 #include <functional>
+#include <cstdint>
 
 #include "transport.h"
 
 using Rpc_Handler = std::function<std::vector<uint8_t>(const std::vector<uint8_t>&)>;
 
-struct Function_Registry_Item 
+struct Function_Registry_Item
 {
-    const char* name;
+    static constexpr std::size_t NAME_MAX = 8; 
+    char name[NAME_MAX];    
     Rpc_Handler handler;
 };
 
-class registry_function 
+class registry_function
 {
 public:
     void register_func(const std::string& name, Rpc_Handler h);
